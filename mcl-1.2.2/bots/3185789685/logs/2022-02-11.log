@@ -1,0 +1,45 @@
+[0m2022-02-11 10:39:10 V/Net 3185789685: No server list cached.[0m
+[92m2022-02-11 10:39:10 I/Net 3185789685: ECDH key is invalid, start to fetch ecdh public key from server.[0m
+[92m2022-02-11 10:39:11 I/Net 3185789685: Successfully fetched ecdh public key from server.[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Send: wtlogin.login[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Recv: wtlogin.login[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Send: StatSvc.register(online)[0m
+[92m2022-02-11 10:39:11 I/Net 3185789685: Server time updated, serverTime: 1644547151, diff: 0ms=0.0s[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Recv: StatSvc.register[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: No BdhSession cache[0m
+[92m2022-02-11 10:39:11 I/Net 3185789685: Syncing friend message history...[0m
+[92m2022-02-11 10:39:11 I/Net 3185789685: Start loading stranger list...[0m
+[92m2022-02-11 10:39:11 I/Net 3185789685: Start loading friend list...[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Send: StatSvc.GetDevLoginInfo(StatSvc.GetDevLoginInfo)[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Send: OidbSvc.0x496(OidbSvc.0x496)[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Send: OidbSvc.0x5d2_0(OidbSvc.0x5d2_0)[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Send: friendlist.getFriendGroupList(friendlist.getFriendGroupList)[0m
+[0m2022-02-11 10:39:11 V/Net 3185789685: Recv: OidbSvc.0x5d2_0[0m
+[92m2022-02-11 10:39:11 I/Net 3185789685: Successfully loaded stranger list: 0 in total[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Start loading group list...[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: OidbSvc.0x496[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Send: friendlist.GetTroopListReqV2(friendlist.GetTroopListReqV2)[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: StatSvc.GetDevLoginInfo[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Online OtherClients: mirai(MOBILE)[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: friendlist.getFriendGroupList[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Loading friend list: 3/3[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Successfully loaded friend list: 3 in total[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: friendlist.GetTroopListReqV2[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Syncing friend message history: Success.[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: friendlist.GetTroopMemberListReq[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Send: friendlist.GetTroopMemberListReq(friendlist.GetTroopMemberListReq)[0m
+[0m2022-02-11 10:39:12 V/Net 3185789685: Recv: friendlist.GetTroopMemberListReq[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Successfully loaded group list: 2 in total.[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Scheduled key refresh in 23h 55min 0.0s.[0m
+[92m2022-02-11 10:39:12 I/Net 3185789685: Scheduled refresh login session in 19d 23h 55min 0.0s.[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Saving bdh session to cache[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Recv: ConfigPushSvc.PushReq[0m
+[92m2022-02-11 10:39:14 I/Net 3185789685: Server list: msfwifi.3g.qq.com:8080, 157.255.13.77:80, 112.80.130.129:80, 111.206.99.120:443, 221.198.70.158:14000, 157.255.13.227:80, 220.194.118.217:8080, 153.3.50.103:14000, 123.125.0.194:80, 112.65.195.55:443.[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Saving bdh session to cache[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Saving server list to cache[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Send: ConfigPushSvc.PushResp(ConfigPushSvc.PushResp)[0m
+[0m2022-02-11 10:39:14 V/Net 3185789685: Recv: ConfigPushSvc.PushReq[0m
